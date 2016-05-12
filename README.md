@@ -7,7 +7,7 @@
 With [fisherman]
 
 ```
-fisher spentacular/asdf
+fisher spentacular/asdf-fish
 ```
 
 ## Notes
